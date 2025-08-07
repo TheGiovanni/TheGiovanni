@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Giovanni Cachón, i'm from México, Yucatán.
-- 👀 I’m interested in learn about JAVA and the technologies for web development
+- 👀 I’m interested in learn about Python and the technologies for web development
 - I´m studying Software engineering 
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning Python  
 
 - 📫 How to reach me
 twitter: @thegioe
