@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python  
 
 - 📫 How to reach me
-twitter: @thegioe
+
 
 <!---
 TheGiovanni/TheGiovanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
