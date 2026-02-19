@@ -3,7 +3,6 @@
 - I´m studying Software engineering 
 - 🌱 I’m currently learning Python  
 
-- 📫 How to reach me
 
 
 <!---
