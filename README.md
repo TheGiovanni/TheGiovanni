@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Giovanni Cachón, i'm from México, Yucatán.
+- 👋 Hi, I’m Giovanni, from México.
 - 👀 I’m interested in learn about Python and the technologies for web development
 - I´m studying Software engineering 
 - 🌱 I’m currently learning Python and cloud
